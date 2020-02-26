@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EweOdin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="green_fragment">Green Fragment</string>
+    <string name="red_fragment">Red Fragment</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+</resources>
